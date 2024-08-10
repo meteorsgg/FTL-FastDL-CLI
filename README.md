@@ -4,7 +4,7 @@
 
 ## 🌟 Overview
 
-ftl-fdl-cli is designed to streamline the process of extracting and merging GMA files into a single directory. Leveraging GMAD and multithreading, this tool ensures efficient handling of large Garry's Mod asset packs. It's particularly useful for server administrators looking to create optimized FastDL packages, with the ability to automatically generate a `resources.lua` file using the `ftl-cli-ext2` feature.
+ftl-fdl-cli is designed to streamline the process of extracting and merging GMA files into a single directory. Leveraging GMAD and multithreading, this tool ensures efficient handling of large Garry's Mod asset packs. 
 
 ## 💻 System Requirements
 
